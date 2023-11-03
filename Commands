@@ -1,10 +1,63 @@
-Commands:
-
-/discord - join my discord
-/heal = rickroll
-/health - heals you fully
-/ping - checks your ping
-/sm - switches you to spectator
-/sms - switches you to survival
-
-MORE COMING SOON
+commands:
+  discord:
+    description: Says discord
+    usage: /<command>
+  heal:
+    description: heals you fully
+    usage: /<command>
+  ping:
+    description: Checks your ping
+    usage: /<command>
+  sm:
+    description: spectator mode
+    usage: /<command>
+  sms:
+    description: survival mode
+    usage: /<command>
+  die:
+    description: kills you
+    usage: /<command>
+  fly:
+    description: fly
+    usage: /<command>
+  God:
+    description: God Mode
+    usage: /<command>
+  BanMe:
+    description: Bans you
+    usage: /<command>
+  cm:
+    description: Creative Mode
+    usage: /<command>
+  repeat:
+    description: repeat your words
+    usage: /<command>
+  fart:
+    description: fart on yourself or other player
+    usage: /<command>
+  flyspeed:
+    description: fly speed
+    usage: /<command>
+  food:
+    description: fills hunger
+    usage: /<command>
+  walkSpeed:
+    description: walk speed
+    usage: /<command>
+  hacks:
+    description: gives you hacks
+    usage: /<command>
+  Can'tSwim:
+    description: Can't swim
+    usage: /<command>
+  menu:
+    description: opens menu
+    usage: /<command>
+  farts:
+    description: frts
+    usage: /<command>
+  armorstand:
+    description: arorstand
+  Teleport:
+    description: Random teleport
+    usage: /<command>
